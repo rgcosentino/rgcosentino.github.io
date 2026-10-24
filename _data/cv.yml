@@ -1,0 +1,119 @@
+# Web version of the CV, shown on the /cv/ page.
+# Each section is a list of entries; copy an entry to add a new one.
+cv:
+  name: Richard G. Cosentino
+  label: Planetary Scientist & Roman WFI Instrument Scientist
+  email: rcosenti@stsci.edu
+  location: Baltimore, MD
+  summary: Planetary scientist studying atmospheric dynamics across the outer Solar System with models and multi-wavelength observations (ALMA, VLA, HST, IRTF), and instrument scientist for the Nancy Grace Roman Space Telescope Wide Field Instrument.
+
+  social_networks:
+    - network: GitHub
+      username: rgcosentino
+    - network: LinkedIn
+      username: richard-cosentino-5586a2153
+
+  sections:
+    Experience:
+      - company: Space Telescope Science Institute
+        position: Senior Staff Scientist, Roman Space Telescope
+        location: Baltimore, MD
+        start_date: 2021
+        end_date: present
+        highlights:
+          - Lead of the Pipeline and Archive block, Roman Telescope Branch
+          - Lead developer of the WFI Reference File Pipeline for automated calibration delivery to CRDS
+          - Multi-Accumulation Table generation and ETC calibration integration
+      - company: University of Maryland, CRESST-II / NASA Goddard Space Flight Center
+        position: Postdoctoral Research Associate
+        location: Greenbelt, MD
+        start_date: 2019
+        end_date: 2021
+        highlights:
+          - OSIRIS-REx OVIRS instrument scientist; observation planning, calibration trending and data analysis
+      - company: NASA Postdoctoral Program, Goddard Space Flight Center
+        position: NPP Fellow
+        location: Greenbelt, MD
+        start_date: 2017
+        end_date: 2019
+        highlights:
+          - Jupiter turbulence from Hubble Space Telescope observations
+      - company: National Radio Astronomy Observatory
+        position: Grote Reber Doctoral Fellow
+        location: Socorro, NM
+        start_date: 2016
+        end_date: 2017
+      - company: New Mexico Tech, Physics Department
+        position: Research and Teaching Assistant
+        location: Socorro, NM
+        start_date: 2010
+        end_date: 2017
+      - company: Integrated Building Concepts, LLC
+        position: Electrical Engineer
+        location: Buffalo, NY
+        start_date: 2005
+        end_date: 2010
+
+    Education:
+      - institution: New Mexico Institute of Mining and Technology
+        location: Socorro, NM
+        area: Physics (Astrophysics dissertation)
+        studyType: Ph.D.
+        start_date: 2010
+        end_date: 2017
+        highlights:
+          - "Dissertation: Investigating Jovian Tropospheric and Stratospheric Vertical Structure with Numerical Models and Radio Wavelength Observations"
+          - "Advisor: Raúl Morales-Juberías"
+      - institution: State University of New York at Buffalo
+        location: Buffalo, NY
+        area: Engineering Physics and Electrical Engineering
+        studyType: B.S.
+        start_date: 2000
+        end_date: 2005
+
+    Awards:
+      - title: Petschek Award for Theoretical Physics
+        date: 2017
+        awarder: New Mexico Tech
+      - title: Grote Reber Doctoral Fellowship
+        date: 2016
+        awarder: National Radio Astronomy Observatory
+      - title: Leslie Fallon Teaching Award for Excellence in Physics Lab Education
+        date: 2012
+        awarder: New Mexico Tech
+
+    Projects:
+      - name: "ALMA (PI): Monitoring Giant Planet High-Altitude Jet Streams"
+        summary: Cycles 9, 10 and 11 (2022.1.01625.S, 2023.1.01703.S, 2024.1.01691.S)
+      - name: "ALMA (PI): Uranus' Polar Bullseye"
+        summary: Cycle 11 (2024.1.00104.S)
+      - name: "ALMA (PI): Neptune's High-Altitude Wind Chill"
+        summary: Cycles 9 and 10 (2022.1.00548.S)
+      - name: "IRTF (PI): Titan's Stratospheric Winds from an Occultation before Equinox"
+        summary: 2022B096
+      - name: "HST Archival (PI): Understanding Jupiter's Cloud Scale and Energy Spectra"
+        summary: Program 14585 (2016)
+      - name: "VLA (PI): Studying Jupiter's Deep Atmosphere, Waves and Turbulence"
+        summary: 15A-320 (2015)
+      - name: "STScI internal funding (PI)"
+        summary: Neptune Wind Chill (0.2 FTE); Asteroids are not all Cosmic Rays for Roman (0.1 FTE)
+
+    Volunteer:
+      - company: NRAO Science Review Panel, Solar System, Stars, and Planetary Systems
+        position: Panel member
+        start_date: 2024
+        end_date: 2026
+      - company: Etscorn Observatory
+        position: Star party volunteer and organizer
+        location: Socorro, NM
+        start_date: 2011
+        end_date: 2016
+      - company: Very Large Array
+        position: Guide and volunteer
+        location: Socorro, NM
+        start_date: 2013
+        end_date: 2016
+      - company: New Mexico State Science Fair
+        position: Judge (high, middle and elementary school)
+        start_date: 2011
+        end_date: 2015

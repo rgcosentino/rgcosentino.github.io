@@ -1,0 +1,14 @@
+# Social links shown on the About page (and in the navbar).
+# They appear in the order listed. Comment a line out (#) to hide it.
+# Supported keys: https://github.com/george-gca/jekyll-socials
+email: rcosenti@stsci.edu
+cv_pdf: /assets/pdf/Cosentino_CV.pdf # replace this file with your latest CV
+github_username: rgcosentino
+linkedin_username: richard-cosentino-5586a2153
+research_gate_profile: Richard-Cosentino-2
+# orcid_id: 0000-0000-0000-0000 # add your ORCID iD here
+# scholar_userid: # add your Google Scholar ID here (the part after user= in your profile URL)
+nasa_gsfc:
+  logo: https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg
+  title: NASA Goddard profile
+  url: https://science.gsfc.nasa.gov/sci/bio/richard.cosentino
