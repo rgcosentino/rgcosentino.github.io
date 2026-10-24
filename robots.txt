@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://rgcosentino.github.io/sitemap.xml
