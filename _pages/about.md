@@ -25,6 +25,13 @@ latest_posts:
   enabled: false
 ---
 
+   <div style="text-align:center;margin:0 0 1.5rem;">
+     <video autoplay loop muted playsinline poster="/assets/img/jupiter_spin_poster.jpg" style="width:100%;max-width:320px;border-radius:50%;" aria-label="Rotating map of Jupiter">
+       <source src="/assets/img/jupiter_spin.webm" type="video/webm">
+       <source src="/assets/img/jupiter_spin.mp4" type="video/mp4">
+     </video>
+   </div>
+
 Hi, I'm Rick. I'm a planetary scientist at the [Space Telescope Science Institute](https://www.stsci.edu/) in Baltimore, where I study how energy and momentum move through the atmospheres of the giant planets. I also work as an instrument scientist on the [Nancy Grace Roman Space Telescope](https://roman.gsfc.nasa.gov/), leading the Pipeline and Archive block of the Roman Telescope Branch and developing the Wide Field Instrument Reference File Pipeline.
 
 My research connects the deep atmospheres of **Jupiter, Saturn, Uranus and Neptune** (where convection, waves and jet streams are born, hidden beneath thick clouds) to the upper atmospheres we can observe directly. I combine general circulation models, turbulence theory and multi-wavelength observations from **ALMA, the VLA, Hubble and the IRTF** to measure winds, temperatures and turbulence, and to work out what drives phenomena like Jupiter's quasi-quadrennial oscillation. I'm particularly interested in using large astrophysical observatories, and soon Roman, for Solar System science, and in carrying these comparative-planetology lessons to exoplanets and the Habitable Worlds Observatory.
