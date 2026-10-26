@@ -19,7 +19,7 @@ This work ([Cosentino et al. 2017, JGR Planets](https://doi.org/10.1002/2017JE00
   <source src="/assets/video/qqo_visualization.mp4" type="video/mp4">
 </video>
 <div class="caption">
-  Visualization of the simulated flow in Jupiter's stratosphere over roughly 19 model years, first on the globe and then as a vertically exaggerated (50,000×) cross-section showing the alternating jets that descend with time. Featured in NASA's 2017 press release.
+  Visualization of the simulated flow in Jupiter's stratosphere over roughly 19 model years, first on the globe and then as a vertically exaggerated (50,000×) cross-section showing the alternating jets that descend with time. Visualization by NASA's Goddard Space Flight Center Scientific Visualization Studio (<a href="https://svs.gsfc.nasa.gov/4601">SVS 4601</a>), featured in NASA's 2017 press release.
   <a href="/assets/video/qqo_visualization.mp4" download>Download video (MP4)</a>
 </div>
 

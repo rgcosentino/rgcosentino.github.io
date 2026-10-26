@@ -3,7 +3,7 @@ layout: page
 title: Solar System science with Roman
 description: Small bodies and planetary defense in a cosmology survey
 img: assets/img/proj_asteroids.jpg
-importance: 4
+importance: 2
 category: mission
 ---
 
