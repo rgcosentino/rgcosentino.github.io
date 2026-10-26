@@ -66,3 +66,61 @@ html:not([data-theme="dark"]) {
   width: 100%;
   height: 100%;
 }
+
+/* Publications: make my name bold (keeps the underline) */
+.publications ol.bibliography li .author > em {
+  font-weight: 700;
+  border-bottom-width: 2px;
+}
+
+/* Publications: stronger year headings with a clear rule between years */
+.publications h2.bibliography {
+  color: var(--global-text-color);
+  font-weight: 700;
+  font-size: 1.9rem;
+  border-top: 2px solid var(--global-theme-color);
+  padding-top: 0.6rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  letter-spacing: 0.04em;
+}
+
+/* Top menu: all-caps engraved (Copperplate-style) lettering */
+.navbar-nav .nav-item .nav-link {
+  font-family: Copperplate, "Copperplate Gothic Light", "Marcellus SC", serif;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.95rem;
+}
+
+/* Name in the top-left of the menu bar and the About heading */
+.navbar-brand.title .last-name,
+.post-title .last-name {
+  font-weight: 700;
+}
+
+/* Contact block under the profile photo: one line per item, sized to fit */
+.profile .more-info {
+  font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  margin-top: 0.6rem;
+}
+.profile .more-info p {
+  display: block;
+  margin: 0;
+  white-space: nowrap;
+}
+.profile .more-info .title-line {
+  font-weight: 500;
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .profile .more-info {
+    font-size: 0.66rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .profile .more-info {
+    font-size: 0.78rem;
+  }
+}

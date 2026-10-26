@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: How energy moves through planetary atmospheres, from hidden depths to observable skies.
 nav: true

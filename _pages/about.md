@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Planetary Scientist &amp; Roman WFI Instrument Scientist · <a href="https://www.stsci.edu/">Space Telescope Science Institute</a>
 
@@ -9,9 +9,10 @@ profile:
   image: prof_pic.jpg # replace assets/img/prof_pic.jpg with your own photo (same file name)
   image_circular: false
   more_info: >
+    <p class="title-line">Senior Staff Scientist</p>
+    <p>Instruments Division</p>
     <p>Space Telescope Science Institute</p>
-    <p>3700 San Martin Drive</p>
-    <p>Baltimore, MD 21218</p>
+    <p>email: rcosenti at stsci edu</p>
 
 selected_papers: true # shows papers marked selected={true} in _bibliography/papers.bib
 social: true # shows the icons from _data/socials.yml

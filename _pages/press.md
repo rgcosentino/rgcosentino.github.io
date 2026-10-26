@@ -1,6 +1,6 @@
 ---
 layout: page
-title: press
+title: Press
 permalink: /press/
 description: Media coverage, NASA features and videos about my research.
 nav: true

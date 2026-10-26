@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Current and recent research programs, observing campaigns and mission software.
 nav: true

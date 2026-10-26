@@ -1,6 +1,6 @@
 ---
 layout: page
-title: talks
+title: Talks
 permalink: /talks/
 description: Invited talks, conference presentations, workshops and outreach.
 nav: true
